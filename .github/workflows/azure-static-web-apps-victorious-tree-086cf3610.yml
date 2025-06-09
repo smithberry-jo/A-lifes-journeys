@@ -28,7 +28,7 @@ jobs:
           action: "upload"
           # Repository/Build Configurations - These values can be configured to match your app requirements.
           app_location: "staticaljtftf"   # App source code path (no leading slash)
-          api_location: ""                # Api source code path - optional
+          api_location: "582afe6bab6e35026cd366a460a70bcadc7b372d0cf231bed9ddcef105f8941d06-29459562-07d1-459c-87a8-ac77a020055a0102826086cf3610"                # Api source code path - optional
           output_location: "app/build"    # Built app content directory (no leading slash)
           # End of Repository/Build Configurations
 
